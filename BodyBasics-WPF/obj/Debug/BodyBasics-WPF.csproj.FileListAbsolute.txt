@@ -1,0 +1,70 @@
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.AssemblyReference.cache
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\obj\Debug\App.g.cs
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.cache
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.CoreCompileInputs.cache
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.CopyComplete
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.exe
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\LightBuzz.Vitruvius.dll
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\LightBuzz.Vitruvius.xml
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\Newtonsoft.Json.dll
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\RabbitMQ.Client.dll
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\System.Buffers.dll
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\System.Memory.dll
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\System.Numerics.Vectors.dll
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\System.Threading.Channels.dll
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\Newtonsoft.Json.xml
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\RabbitMQ.Client.xml
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\System.Buffers.xml
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\System.Memory.xml
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\System.Numerics.Vectors.xml
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\System.Threading.Channels.xml
+C:\Users\MohanadKh\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\bin\AnyCPU\Debug\LightBuzz.Vitruvius.dll
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\bin\AnyCPU\Debug\Newtonsoft.Json.dll
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\bin\AnyCPU\Debug\RabbitMQ.Client.dll
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\bin\AnyCPU\Debug\System.Buffers.dll
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\bin\AnyCPU\Debug\System.Memory.dll
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\bin\AnyCPU\Debug\System.Numerics.Vectors.dll
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\bin\AnyCPU\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\bin\AnyCPU\Debug\System.Threading.Channels.dll
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\bin\AnyCPU\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\bin\AnyCPU\Debug\LightBuzz.Vitruvius.xml
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\bin\AnyCPU\Debug\Newtonsoft.Json.xml
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\bin\AnyCPU\Debug\RabbitMQ.Client.xml
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\bin\AnyCPU\Debug\System.Buffers.xml
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\bin\AnyCPU\Debug\System.Memory.xml
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\bin\AnyCPU\Debug\System.Numerics.Vectors.xml
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\bin\AnyCPU\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\bin\AnyCPU\Debug\System.Threading.Channels.xml
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\bin\AnyCPU\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.AssemblyReference.cache
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\obj\Debug\App.g.cs
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.cache
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.CoreCompileInputs.cache
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.CopyComplete
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.exe
+C:\Users\MohanadKh\Desktop\G\181026@ppu.edu.ps\10th_Semester\Graduation Project\GP_source\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.pdb
